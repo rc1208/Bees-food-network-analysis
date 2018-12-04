@@ -1,6 +1,7 @@
 # Bees-food-network-analysis
-Network Analysis and Modeling of food transfer in a community of bees
-
+## Network Analysis and Modeling of food transfer in a community of bees
+![alt text](https://github.com/rc1208/Bees-food-network-analysis/blob/master/bee-puns1.jpg)
+Image Credits: https://thoughtcatalog.com/
 
 ### Dataset Link
 Dataset link - http://www.beemonitoring.igb.illinois.edu/
