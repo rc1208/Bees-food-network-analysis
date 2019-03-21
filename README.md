@@ -12,11 +12,6 @@ Dataset link - http://www.beemonitoring.igb.illinois.edu/
 3) Static-directed-undirected bees.ipynb - Analysis of different network metrics for directed/undirected graphs
 
 
-### INPUTS FROM DAN:
-
-1. Cascading
-2. Centrality
-3. Segmentation of the food exchange cascade
 
 
 
